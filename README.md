@@ -2,3 +2,5 @@
 Some text for test 2
 
 changes are made
+
+change for new text
